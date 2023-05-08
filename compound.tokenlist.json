@@ -5,7 +5,7 @@
     "compound",
     "defi"
   ],
-  "timestamp": "2021-05-27T20:37:00.000+00:00",
+  "timestamp": "2023-05-8T20:37:00.000+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -33,7 +33,7 @@
     }
   ],
   "version": {
-    "major": 2,
+    "major": 3,
     "minor": 0,
     "patch": 0
   }
