@@ -20,8 +20,16 @@
       "address": "0x2F141Ce366a2462f02cEA3D12CF93E4DCa49e4Fd",
       "name": "Free Coin",
       "symbol": "FREE",
-      "decimals": 16,
+      "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/5585/small/free.png?1639547764"
+    }
+    {
+      "chainId": 1,
+      "address": "0xc8490e02836adf06360Faddb9977D2542D1412E9",
+      "name": "ART",
+      "symbol": "ART",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/InnovativeBioresearch/token-list/master/ART.jpg"
     }
   ],
   "version": {
