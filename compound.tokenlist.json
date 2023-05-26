@@ -30,6 +30,14 @@
       "symbol": "ART",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/InnovativeBioresearch/token-list/master/ART.jpg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x9bf1D7D63dD7a4ce167CF4866388226EEefa702E",
+      "name": "Ben",
+      "symbol": "BEN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/30175/small/BEN_COIN.png?1685060751"
     }
   ],
   "version": {
